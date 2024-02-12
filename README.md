@@ -1,2 +1,3 @@
-# Django_Projects
-Files contains django ptojects 
+# simple_Apple
+contains file for sample django project
+
